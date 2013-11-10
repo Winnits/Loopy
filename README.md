@@ -22,7 +22,7 @@ public class Practice {
           add(count1, count2);
           
           count1++;
-          count2--;
+          count2--
       }
       
        }
